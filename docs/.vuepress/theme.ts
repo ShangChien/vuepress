@@ -16,7 +16,7 @@ export default hopeTheme({
 
   logo: "/atom.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ShangChien",
 
   docsDir: "demo/src",
 
